@@ -2,6 +2,6 @@
     "recommendations": [
         "ms-python.python",
         "github.copilot",
-        "charliermarsh.ruff",
+        "charliermarsh.ruff"
     ]
 }
